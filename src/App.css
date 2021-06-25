@@ -1,0 +1,5 @@
+body {
+  background-image: linear-gradient(#3569c9, #b0c3d9);
+  min-height: 100vh;
+  box-sizing: border-box;
+}

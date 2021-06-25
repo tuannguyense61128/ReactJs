@@ -1,0 +1,26 @@
+.box {
+  display: flex;
+  background: rgb(34, 31, 31);
+  color: pink;
+  font-weight: bold;
+}
+.detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: justify;
+}
+.image {
+  min-height: 375px;
+  min-width: 375px;
+}
+span {
+  color: pink;
+  font-weight: 200;
+}
+h1,
+h2,
+h4 {
+  padding-left: 30px;
+  padding-right: 30px;
+}

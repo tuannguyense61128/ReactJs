@@ -1,0 +1,58 @@
+.numberOfDrinks {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.title {
+  text-align: center;
+}
+.result {
+  width: 300px;
+  height: 40px;
+  padding: 3px 7px;
+  margin: auto;
+  margin-top: 8px;
+  text-align: center;
+  background-color: #03e9f4;
+  font-weight: bold;
+  box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4,
+    0 0 100px #03e9f4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.detailMenu {
+  color: white;
+  text-align: center;
+}
+.detailDrink {
+  display: flex;
+  justify-content: center;
+}
+.drinkNumber {
+  font-size: 25px;
+  font-weight: bold;
+  width: 100px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.drinkName {
+  font-size: 25px;
+  font-weight: bold;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.drinkBox {
+  width: 200px;
+  height: 200px;
+}
+.drinkImage {
+  width: 100%;
+  height: auto;
+}
